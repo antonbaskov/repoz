@@ -1,1 +1,1 @@
-# repoz
+# repozitori
