@@ -1,1 +1,1 @@
-# repozitori
+# repozitor
